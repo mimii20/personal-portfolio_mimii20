@@ -4,6 +4,7 @@ body {
 
 div {
   background-color: #fae2d8;
+  border-style: solid;
   border: 5px #9c6b6c;
   padding: 8px;
 }
