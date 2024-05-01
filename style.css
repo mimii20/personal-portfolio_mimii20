@@ -34,9 +34,9 @@ img {
 
 .column {
   float: left;
-  width: 75%;
+  width: 50%;
   border: none;
-  padding: 3px;
+  padding: 2px;
 }
 
 .row: {
