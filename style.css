@@ -14,6 +14,12 @@ h1 {
   text-align: center; 
 }
 
+p {
+  font-size: 15;
+  color: #dc8670;
+  text-align: right; 
+}
+
 img {
   display: block;
   margin-left: auto;
