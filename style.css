@@ -1,10 +1,6 @@
 body {
   background-color: #ffe5e5;
 }
-
-b.solid {
-  border-style: solid;
-}
   
 div {
   background-color: #fae2d8;
@@ -27,6 +23,15 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
+}
+
+span.a {
+  display: inline; /* the default for span */
+  width: 100;
+  height: 100;
+  padding: 5;
+  border: 5px #a47575;  
+  background-color: #fae2d8; 
 }
 
 
