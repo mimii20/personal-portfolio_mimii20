@@ -2,11 +2,14 @@ body {
   background-color: #ffe5e5;
 }
 
-div {
-  background-color: #fae2d8;
+b.solid {
   border-style: solid;
   border: 5px #9c6b6c;
   padding: 8px;
+}
+  
+div {
+  background-color: #fae2d8;
 }
 
 h1 {
