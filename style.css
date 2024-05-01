@@ -6,6 +6,11 @@ div {
   background-color: #fae2d8;
 }
 
+h1 {
+  font-size: 40;
+  color: #bc6149;
+  text-align: center;
+}
 
 img {
   display: block;
